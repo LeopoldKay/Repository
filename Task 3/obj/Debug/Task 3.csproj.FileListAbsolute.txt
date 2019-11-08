@@ -1,0 +1,6 @@
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 3\obj\Debug\Task 3.csprojAssemblyReference.cache
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 3\bin\Debug\Task 3.exe.config
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 3\bin\Debug\Task 3.exe
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 3\bin\Debug\Task 3.pdb
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 3\obj\Debug\Task 3.exe
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 3\obj\Debug\Task 3.pdb
