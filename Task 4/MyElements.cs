@@ -14,5 +14,7 @@ namespace Task_4
         {
             MyEvent?.Invoke();
         }
+
+        
     }
 }
