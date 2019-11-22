@@ -15,13 +15,10 @@ namespace Task_5
 
     class Human
     {
-        BodyParts Body = BodyParts.Head;
 
-        public BodyParts MostImportantBodyPart
-        {
-            get { return Body; }
-            set { Body = value; }
-        }
+        public BodyParts MostImportantBodyPart { get; set; } = BodyParts.Head;
+
+
     }
 
     static class HumanExtension

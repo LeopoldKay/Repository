@@ -27,7 +27,7 @@ namespace Task_5
 
             Console.WriteLine("Part 4");
             var characters = PersonsService.GetPersons();
-            var zapros = characters.Where(x => x.Age > 30).OrderByDescending(x => x.Age).OrderBy(x => x.FirstName);
+            var zapros = characters.Where(x => x.Age > 30).OrderByDescending(x => x.Age).ThenBy(x => x.FirstName);
             foreach (var i in zapros)
                 Console.WriteLine(i);
             
