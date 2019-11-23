@@ -1,0 +1,20 @@
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 8\bin\Debug\Task 8.exe.config
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 8\bin\Debug\Task 8.exe
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 8\bin\Debug\Task 8.pdb
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 8\bin\Debug\EntityFramework.dll
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 8\bin\Debug\EntityFrameworkExample.exe
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 8\bin\Debug\Lesson8.exe
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 8\bin\Debug\EntityFramework.xml
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 8\bin\Debug\EntityFrameworkExample.pdb
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 8\bin\Debug\EntityFrameworkExample.exe.config
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 8\bin\Debug\Lesson8.pdb
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 8\bin\Debug\Lesson8.exe.config
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 8\obj\Debug\Task 8.csprojAssemblyReference.cache
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 8\obj\Debug\Task 8.csproj.CopyComplete
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 8\obj\Debug\Task 8.exe
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 8\obj\Debug\Task 8.pdb
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 8\obj\Debug\Task_8.Migrations.MyMigration.resources
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 8\obj\Debug\Task 8.csproj.GenerateResource.cache
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 8\obj\Debug\Task_8.Migrations.MyMigration01.resources
