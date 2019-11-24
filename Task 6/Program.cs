@@ -11,16 +11,17 @@ namespace Task_6
         static void Main(string[] args)
         {
             Console.WriteLine("Part 1");
-            var persBase = PersonsService.GetPersons();  
-            var pers = persBase.Select(PersonDescription => new { PersonDescription.Age, PersonDescription.FirstName, PersonDescription.Gender, PersonDescription.LastName });
-            foreach (var y in pers)
-                Console.WriteLine(y);
+            var persBase = PersonsService.GetPersons();
+            string a = "Finn" + "Mertens" + true + 14;
+            var pers = persBase.Select(PersonDescription => new { a });
+            
 
             Console.WriteLine("Part 2");
             var persBase2 = PersonsService.GetPersons();
-            var pers2 = persBase2.Where(x => x.Age < 100).GroupBy(x => x.Gender).OrderBy(x => x.Count()).Select(x => new { x.Key, у = x.Count() });
+            var pers2 = persBase2.Where(x => x.Age < 100).GroupBy(x => x.Gender).GroupBy(group => group.Count()).Select(r => new { r.Key, у = r.Count()});
             foreach (var l in pers2)
                 Console.WriteLine(l.ToString());
+             
 
             Console.ReadKey();
 
