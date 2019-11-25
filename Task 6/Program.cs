@@ -18,9 +18,12 @@ namespace Task_6
 
             Console.WriteLine("Part 2");
             var persBase2 = PersonsService.GetPersons();
-            var pers2 = persBase2.Where(x => x.Age < 100).GroupBy(x => x.Gender).GroupBy(group => group.Count()).Select(r => new { r.Key, у = r.Count()});
+            var pers2 = persBase2.Where(x => x.Age < 100).GroupBy(x => x.Gender).GroupBy(group => group.Count()).Select(r => new { r.Key, у = r.Count(), e = r});
             foreach (var l in pers2)
-                Console.WriteLine(l.ToString());
+                foreach (var s in l.e)
+                    foreach(var b in s)
+                    Console.WriteLine(l.ToString());
+            
              
 
             Console.ReadKey();
