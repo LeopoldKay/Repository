@@ -1,0 +1,6 @@
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 9\LinqToSqlTask\bin\Debug\LinqToSqlTask.exe.config
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 9\LinqToSqlTask\bin\Debug\LinqToSqlTask.exe
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 9\LinqToSqlTask\bin\Debug\LinqToSqlTask.pdb
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 9\LinqToSqlTask\obj\Debug\LinqToSqlTask.csprojAssemblyReference.cache
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 9\LinqToSqlTask\obj\Debug\LinqToSqlTask.exe
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 9\LinqToSqlTask\obj\Debug\LinqToSqlTask.pdb

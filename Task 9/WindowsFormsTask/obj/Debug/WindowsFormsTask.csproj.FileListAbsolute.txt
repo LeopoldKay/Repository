@@ -1,0 +1,13 @@
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 9\WindowsFormsTask\bin\Debug\WindowsFormsTask.exe.config
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 9\WindowsFormsTask\bin\Debug\WindowsFormsTask.exe
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 9\WindowsFormsTask\bin\Debug\WindowsFormsTask.pdb
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 9\WindowsFormsTask\bin\Debug\LinqToSqlTask.exe
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 9\WindowsFormsTask\bin\Debug\LinqToSqlTask.pdb
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 9\WindowsFormsTask\bin\Debug\LinqToSqlTask.exe.config
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 9\WindowsFormsTask\obj\Debug\WindowsFormsTask.csprojAssemblyReference.cache
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 9\WindowsFormsTask\obj\Debug\WindowsFormsTask.Form1.resources
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 9\WindowsFormsTask\obj\Debug\WindowsFormsTask.Properties.Resources.resources
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 9\WindowsFormsTask\obj\Debug\WindowsFormsTask.csproj.GenerateResource.cache
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 9\WindowsFormsTask\obj\Debug\WindowsFormsTask.csproj.CopyComplete
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 9\WindowsFormsTask\obj\Debug\WindowsFormsTask.exe
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 9\WindowsFormsTask\obj\Debug\WindowsFormsTask.pdb
