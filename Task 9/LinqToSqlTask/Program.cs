@@ -14,20 +14,30 @@ namespace LinqToSqlTask
         {
             DataContext dataConext = new DataContext(ConfigurationManager.ConnectionStrings["DirectrsContext"].ToString());
             var dirList = DirectorSerices.GetDirectors();
-            dataConext.GetTable<Director>().InsertAllOnSubmit(dirList);
+            dataConext.GetTable<Dir2>().InsertAllOnSubmit(dirList);
             dataConext.SubmitChanges();
-            var printList = dataConext.GetTable<Director>();
-            Console.WriteLine("Add Directors:");
+            var printList = dataConext.GetTable<Dir2>();
+            Console.WriteLine("Task 1 - Add Directors:");
             foreach (var i in printList)
                 Console.WriteLine("First Name: " + i.FirstName + " / Last Name: " + i.LastName + " / BirthDate: " + i.BirthDate.ToString("D"));
 
-            var delList = dataConext.GetTable<Director>().Where(x => x.FirstName == "Unknown");
-            dataConext.GetTable<Director>().DeleteAllOnSubmit(delList);
+            var delList = dataConext.GetTable<Dir2>().Where(x => x.FirstName == "Unknown");
+            dataConext.GetTable<Dir2>().DeleteAllOnSubmit(delList);
             dataConext.SubmitChanges();
-            var printList2 = dataConext.GetTable<Director>();
-            Console.WriteLine("Delete Directors List:");
+            var printList2 = dataConext.GetTable<Dir2>();
+            Console.WriteLine("Task 3 - Delete Directors List:");
             foreach (var i in printList2)
                 Console.WriteLine("First Name: " + i.FirstName + " / Last Name: " + i.LastName + " / BirthDate: " + i.BirthDate.ToString("D"));
+
+            Console.WriteLine("Adittions 3* & 4*: ");
+            var directors = Services.GetDirectors();
+            dataConext.GetTable<Director>().InsertAllOnSubmit(directors);
+            dataConext.SubmitChanges();
+
+            var movies = Services.GetMovies();
+            dataConext.GetTable<Movie>().InsertAllOnSubmit(movies);
+            dataConext.SubmitChanges();
+
             Console.ReadKey();
 
 
