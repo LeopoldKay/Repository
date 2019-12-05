@@ -12,8 +12,7 @@ namespace Task_6
         {
             Console.WriteLine("Part 1");
             var persBase = PersonsService.GetPersons();
-            var a = new { FirstName = persBase.Select(x=>x.FirstName), LastName = persBase.Select(x => x.LastName), Gender = persBase.Select(x=>x.Gender), Age = persBase.Select(x=>x.Age) };
-            var pers = persBase.Select(PersonDescription => new { a });
+            var pers = persBase.Select(PersonDescription => new { FirstName = persBase.Select(x => x.FirstName), LastName = persBase.Select(x => x.LastName), Gender = persBase.Select(x => x.Gender), Age = persBase.Select(x => x.Age) });
             
             Console.WriteLine("Part 2");
             var persBase2 = PersonsService.GetPersons();
