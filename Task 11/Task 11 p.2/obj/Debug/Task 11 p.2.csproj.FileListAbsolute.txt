@@ -1,0 +1,6 @@
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.2\bin\Debug\Task 11 p.2.exe.config
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.2\bin\Debug\Task 11 p.2.exe
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.2\bin\Debug\Task 11 p.2.pdb
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.2\obj\Debug\Task 11 p.2.csprojAssemblyReference.cache
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.2\obj\Debug\Task 11 p.2.exe
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.2\obj\Debug\Task 11 p.2.pdb

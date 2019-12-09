@@ -1,0 +1,28 @@
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\bin\Debug\Task 11 p.1.exe.config
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\bin\Debug\Task 11 p.1.exe
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\bin\Debug\Task 11 p.1.pdb
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\bin\Debug\System.Buffers.dll
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\bin\Debug\System.Memory.dll
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\bin\Debug\System.Text.Json.dll
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\bin\Debug\System.ValueTuple.dll
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\bin\Debug\System.Buffers.xml
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\bin\Debug\System.Memory.xml
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\bin\Debug\System.Text.Json.xml
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\bin\Debug\System.ValueTuple.xml
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\obj\Debug\Task 11 p.1.csprojAssemblyReference.cache
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\obj\Debug\Task_11_p._1.Form1.resources
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\obj\Debug\Task_11_p._1.Properties.Resources.resources
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\obj\Debug\Task 11 p.1.csproj.GenerateResource.cache
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\obj\Debug\Task 11 p.1.csproj.CopyComplete
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\obj\Debug\Task 11 p.1.exe
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 11\Task 11 p.1\obj\Debug\Task 11 p.1.pdb

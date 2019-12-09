@@ -1,0 +1,14 @@
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 12\Task 12 p.2\bin\Debug\Task 12 p.2.exe.config
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 12\Task 12 p.2\bin\Debug\Task 12 p.2.exe
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 12\Task 12 p.2\bin\Debug\Task 12 p.2.pdb
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 12\Task 12 p.2\bin\Debug\EntityFramework.dll
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 12\Task 12 p.2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 12\Task 12 p.2\bin\Debug\EntityFramework.xml
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 12\Task 12 p.2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 12\Task 12 p.2\obj\Debug\Task 12 p.2.csprojAssemblyReference.cache
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 12\Task 12 p.2\obj\Debug\Task_12_p._2.Form1.resources
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 12\Task 12 p.2\obj\Debug\Task_12_p._2.Properties.Resources.resources
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 12\Task 12 p.2\obj\Debug\Task 12 p.2.csproj.GenerateResource.cache
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 12\Task 12 p.2\obj\Debug\Task 12 p.2.csproj.CopyComplete
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 12\Task 12 p.2\obj\Debug\Task 12 p.2.exe
+C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 12\Task 12 p.2\obj\Debug\Task 12 p.2.pdb
