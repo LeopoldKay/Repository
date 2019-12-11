@@ -18,20 +18,29 @@ namespace Task_12_p._2
             InitializeComponent();
 
             LoadData1();
-            //LoadData2();
+            LoadData2();
 
         }
         
         public async void LoadData1()
         {
-
-
-            ///Thread.Sleep(5000);
-            await Task.Run(() => { FillDir(); });
-                
+            
+            var dataList = await Task.Run(FillDir);
+            foreach (var i in dataList)
+                dataGridView1.Rows.Add(i);
         }
-        public void FillDir()
+
+        public async void LoadData2()
         {
+            var dataList2 = await Task.Run(FillDir2);
+
+            foreach (var i in dataList2)
+                dataGridView2.Rows.Add(i);
+
+        }
+        public List<string[]> FillDir()
+        {
+            Thread.Sleep(10000);
             var dirList = new Task11Context().Directors;
             List<string[]> data = new List<string[]>();
 
@@ -44,30 +53,25 @@ namespace Task_12_p._2
                 data[data.Count - 1][3] = i.BirthDate.ToString();
 
             }
-
-            foreach (var i in data)
-                dataGridView1.Rows.Add(i);
+            return data;
         }
-        //public async void LoadData2()
-        //{
-        //        await Task.Run(() => { var list = new Task11Context().Characters; });
-        //        List<string[]> data = new List<string[]>();
 
-        //        foreach (var i in new Task11Context().Characters)
-        //        {
-        //            data.Add(new string[5]);
-        //            data[data.Count - 1][0] = i.Id.ToString();
-        //            data[data.Count - 1][1] = i.FirstName;
-        //            data[data.Count - 1][2] = i.LastName;
-        //            data[data.Count - 1][3] = i.Gender.ToString();
-        //            data[data.Count - 1][4] = i.Age.ToString();
+        public List<string[]> FillDir2()
+        {
+            var list = new Task11Context().Characters;
+            List<string[]> data = new List<string[]>();
 
-        //        }
-
-        //        foreach (var i in data)
-        //            dataGridView1.Rows.Add(i);
-
-        //}
+            foreach (var i in new Task11Context().Characters)
+            {
+                data.Add(new string[5]);
+                data[data.Count - 1][0] = i.Id.ToString();
+                data[data.Count - 1][1] = i.FirstName;
+                data[data.Count - 1][2] = i.LastName;
+                data[data.Count - 1][3] = i.Gender.ToString();
+                data[data.Count - 1][4] = i.Age.ToString();
+            }
+            return data;
+        }
     }
 }
 
