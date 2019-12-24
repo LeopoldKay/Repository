@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Text.Json;
@@ -12,13 +13,29 @@ namespace Task_12_p._1
     {
         static void Main(string[] args)
         {
-            
-            RunSerializAsync();
 
-            Console.WriteLine("Main Operation finished");
+            SaveToFile();
+            RunSerializAsync();
+            RunDeserialize();
+
+            //Console.WriteLine("Main Operation finished");
 
             Console.ReadKey();
 
+        }
+        public static async void SaveToFile()
+        {
+            var oneHuman = new Human();
+            oneHuman.FirstName = "Antonio";
+            oneHuman.LastName = "Jobim";
+            oneHuman.BirthDate = new DateTime(1942, 11, 17);
+
+            using (FileStream stream = new FileStream(@"I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\File\oneHuman.txt", FileMode.OpenOrCreate))
+            {
+                await JsonSerializer.SerializeAsync(stream, oneHuman);
+            }
+
+            Console.WriteLine("Json file is created.");
         }
 
         private static async void RunSerializAsync()
@@ -28,22 +45,34 @@ namespace Task_12_p._1
             Console.WriteLine("Async Operation finished");
         }
 
+         
+        public static async void RunDeserialize()
+        {
+            Human human;
+
+            using (FileStream stream = new FileStream(@"I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\File\oneHuman.txt", FileMode.Open))
+            {
+                human = await JsonSerializer.DeserializeAsync<Human>(stream);
+            }
+
+            Console.WriteLine("Json human десериализован" + human.FirstName + " " + human.LastName);
+        }
+
 
         public static void SerializFile()
         {
-            var humanList = CharacterService.GetCharacters();
 
             Thread.Sleep(3000);
-            
-            string json = JsonSerializer.Serialize(humanList);
-            Console.WriteLine("Json human сериализован: " + json);
-            Thread.Sleep(3000);
-            var human2 = JsonSerializer.Deserialize<List<Human>>(json);
-            Console.WriteLine("Json human десериализован:\n");
-            foreach (var i in human2)
+            var humanList = CharacterService.GetCharacters();
+
+            using (FileStream stream = new FileStream(@"I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\File\Human.txt", FileMode.OpenOrCreate))
             {
-                Console.WriteLine("FirstName: " + i.FirstName + "; LastName: " + i.LastName);
+                JsonSerializer.SerializeAsync(stream, humanList);
             }
+
+            Console.WriteLine("Json humanList сериализован: " + humanList);
+
+           
         }
 
 

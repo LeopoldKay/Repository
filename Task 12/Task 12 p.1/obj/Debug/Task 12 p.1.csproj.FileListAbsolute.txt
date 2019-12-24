@@ -23,3 +23,28 @@ C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 12\Task 12 p.1\b
 C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 12\Task 12 p.1\obj\Debug\Task 12 p.1.csproj.CopyComplete
 C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 12\Task 12 p.1\obj\Debug\Task 12 p.1.exe
 C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 12\Task 12 p.1\obj\Debug\Task 12 p.1.pdb
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\bin\Debug\Task 12 p.1.exe.config
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\bin\Debug\Task 12 p.1.exe
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\bin\Debug\Task 12 p.1.pdb
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\bin\Debug\System.Buffers.dll
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\bin\Debug\System.Memory.dll
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\bin\Debug\System.Numerics.Vectors.dll
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\bin\Debug\System.Text.Encodings.Web.dll
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\bin\Debug\System.Text.Json.dll
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\bin\Debug\System.Threading.Tasks.Extensions.dll
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\bin\Debug\System.ValueTuple.dll
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\bin\Debug\System.Buffers.xml
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\bin\Debug\System.Memory.xml
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\bin\Debug\System.Numerics.Vectors.xml
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\bin\Debug\System.Text.Encodings.Web.xml
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\bin\Debug\System.Text.Json.xml
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\bin\Debug\System.Threading.Tasks.Extensions.xml
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\bin\Debug\System.ValueTuple.xml
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\obj\Debug\Task 12 p.1.csprojAssemblyReference.cache
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\obj\Debug\Task 12 p.1.csproj.CopyComplete
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\obj\Debug\Task 12 p.1.exe
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 12\Task 12 p.1\obj\Debug\Task 12 p.1.pdb
