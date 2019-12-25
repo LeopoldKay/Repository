@@ -4,3 +4,9 @@ C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 10\Task 10 p.1\b
 C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 10\Task 10 p.1\obj\Debug\Task 10 p.1.csprojAssemblyReference.cache
 C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 10\Task 10 p.1\obj\Debug\Task 10 p.1.exe
 C:\Users\mrleo\OneDrive\Рабочий стол\Repository\Task 10\Task 10 p.1\obj\Debug\Task 10 p.1.pdb
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 10\Task 10 p.1\bin\Debug\Task 10 p.1.exe.config
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 10\Task 10 p.1\bin\Debug\Task 10 p.1.exe
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 10\Task 10 p.1\bin\Debug\Task 10 p.1.pdb
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 10\Task 10 p.1\obj\Debug\Task 10 p.1.csprojAssemblyReference.cache
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 10\Task 10 p.1\obj\Debug\Task 10 p.1.exe
+I:\Leopold Docs\C#\Study\Advance\MyTasks\Repository\Task 10\Task 10 p.1\obj\Debug\Task 10 p.1.pdb

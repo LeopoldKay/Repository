@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -18,7 +19,7 @@ namespace Task_10_p._1
 
             Console.WriteLine("Task 10 - part 2:");
             var t10object = new T10ClassWAtr();
-            var atrList = t10object.GetType().GetMethods();
+            var atrList = t10object.GetType().GetMethods(BindingFlags.DeclaredOnly | BindingFlags.Instance | BindingFlags.NonPublic | BindingFlags.Public);
             foreach (var i in atrList)
                 foreach (var a in i.CustomAttributes)
                     Console.WriteLine(a);
